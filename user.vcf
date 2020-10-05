@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Cunningham;David;;;
-FN: David Cunninham
+N:Myers;Tina;;;
+FN: Tina Myers
 ORG:Superior Plumbing;
-TITLE:Operations Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:customerservice@superiorplumbing.com
-TEL;type=WORK;type=VOICE:7704227586
+TITLE:Director of Marketing
+EMAIL;type=INTERNET;type=WORK;type=pref:marketing@superiorplumbing.com
+TEL;type=WORK;type=VOICE:6784103944
 item1.ADR;type=WORK;type=pref:;;3991 Royal Dr NW, \Kennesaw\, GA;;;30062;United States
 item1.X-ABADR:sg
 item2.URL;type=pref:superiorplumbing.com
